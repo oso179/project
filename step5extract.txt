@@ -1,7 +1,7 @@
 Because my computer is limited, some functions of R are not allowed to use, espectically "download files from Internet", I could only paste my code here.
 Sorry for the inconvenience.
 
-========================================================================================================
+=======================================================================================================
 #Download file
 If(!file.exists("./data")){dir.create("./data")}
 fileUrl <- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
