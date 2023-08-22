@@ -39,4 +39,4 @@ data <- subset(measurements,select="activities"|"subject")
 str(data)
 
 #Use write.table to create a txt file
-write.table(data,file="step5extract.txt",row.names = FALSE)
+write.table(data,file="result.txt",row.names = FALSE)
