@@ -23,7 +23,7 @@ The dataset includes the following files:
 ===================================================================
 
 - 'README.txt'
-- 'step5extract.txt': Shows the tidy data set created in step 5 of the instructions.
+- 'result.txt': Shows the tidy data set created in step 5 of the instructions.
 - 'R file.R': Shows the R code.
 - 'codebook.txt': Shows the meaning of terms.
 
